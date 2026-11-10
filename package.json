@@ -1,0 +1,9 @@
+{
+  "name": "la-table-d-alexandrine-demo",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Site vitrine statique de démonstration pour La Table d’Alexandrine.",
+  "scripts": {
+    "start": "python -m http.server 8000"
+  }
+}
